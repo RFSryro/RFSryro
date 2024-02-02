@@ -1,5 +1,3 @@
 ### Hi there 👋
 
-I'm _RFSryro_ and this is my GitHub page. I'm a student at WGU and a LAN/WLAN engineer by day. When I'm not studying, or working on switches/ access-points, I'm usually out hiking with my dog.
-
-⚡ Fun fact: I can recite every U.S. President's last name in the order that they were elected in under 12 seconds!
+I'm _RFSryro_ and this is my GitHub page. I'm a network engineer and a college student.
